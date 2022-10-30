@@ -1,7 +1,7 @@
 
 var GHPATH = '/PWA-ToDoList';
 var APP_PREFIX = 'todolist_';
-var VERSION = 'version_001';
+var VERSION = 'version_002';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
