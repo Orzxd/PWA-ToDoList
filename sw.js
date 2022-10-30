@@ -6,7 +6,7 @@ var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
   `${GHPATH}/css/styles.css`,
-  `${GHPATH}/img/icon.png`,
+  `${GHPATH}/img/icon.svg`,
   `${GHPATH}/js/app.js`
 ]
 
