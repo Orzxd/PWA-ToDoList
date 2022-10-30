@@ -1,0 +1,17 @@
+{
+    "name": "PWA-ToDoList",
+    "short_name": "ToDoList",
+    "description": "Github Page as a Progressive Web App",
+    "scope": "/PWA-ToDoList/",
+    "start_url": "/PWA-ToDoList/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone", 
+    "icons": [
+        {
+          "src": "/PWA-ToDoList/img/icon.svg",
+          "type": "image/svg",
+          "sizes": "700x700"
+        }
+    ]
+  }
